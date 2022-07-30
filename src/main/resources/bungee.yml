@@ -1,0 +1,4 @@
+name: PacketLimiter
+version: '${project.version}'
+main: com.lss233.outer.packetlimiter.PacketLimiter
+depends: ["Protocolize"]
